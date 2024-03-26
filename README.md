@@ -1,9 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>School Management System Overview</title>
+</head>
 <body>
-    <h1>School Management System</h1>
+    <h1 style="font-size: 28px;">School Management System</h1>
     <p><strong>Project Overview:</strong></p>
     <p>The Student and Teacher Management System is designed to efficiently manage information related to students and teachers within an educational institution.</p>
     <p>The system aims to streamline administrative processes, enhance communication, and provide a centralized platform for managing academic data.</p>
 </body>
+</html>
+
 
 <br><br>
 
