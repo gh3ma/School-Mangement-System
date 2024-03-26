@@ -1,31 +1,6 @@
-<!DOCTYPE html>
-<html lang="en">
 
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Image Display</title>
-  <style>
-    .container {
-      text-align: center;
-    }
 
-    img {
-      width: 600px;
-    }
 
-    .title {
-      margin-top: 10px;
-      font-size: 18px;
-      font-weight: bold;
-    }
-
-    .divider {
-      margin-top: 10px;
-      border-bottom: 2px solid rgb(0, 13, 83);
-    }
-  </style>
-</head>
 
 <body>
   <div class="container">
