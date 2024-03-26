@@ -6,7 +6,7 @@
 </head>
 <body>
     <h1 style="font-size: 28px;">School Management System</h1>
-    <p><strong>Project Overview:</strong></p>
+    <p><strong><span style="font-size: 20px;">Project Overview:</span></strong></p>
     <p>The Student and Teacher Management System is designed to efficiently manage information related to students and teachers within an educational institution.</p>
     <p>The system aims to streamline administrative processes, enhance communication, and provide a centralized platform for managing academic data.</p>
 </body>
